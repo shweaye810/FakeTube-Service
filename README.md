@@ -1,1 +1,1 @@
-setup service with auth server
+FakeTube frontend microservice
